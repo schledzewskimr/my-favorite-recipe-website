@@ -5,3 +5,11 @@
 .table {
     border: 1px solid slategray;
 }
+
+table, th, tr, td {
+    border: 1px solid slategray;
+}
+
+.title {
+    text-align: center;
+}
