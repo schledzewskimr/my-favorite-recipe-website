@@ -1,6 +1,14 @@
+html{
+    background-color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 .navbar {
+    font-family: fantasy;
     text-align: stretch;
     border: 4px sandybrown;
+    margin-left: 20px;
+    display: inline;
+    align-items: baseline;
 }
 .table {
     border: 1px solid slategray;
@@ -12,4 +20,12 @@ table, th, tr, td {
 
 .title {
     text-align: center;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.picture {
+    margin-left: 100px;
 }
